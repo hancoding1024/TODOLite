@@ -24,7 +24,7 @@ cd <仓库名>\src
 build.bat
 ```
 
-产物输出到仓库根目录的 `TodoLite.exe`。编译前请先退出正在运行的 TodoLite。
+产物输出到仓库根目录的 `TodoLite.exe`。
 
 > 需要 Windows 10 / Windows 11（系统自带 .NET Framework 4.8），不需要另装任何依赖。
 
